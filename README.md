@@ -25,4 +25,6 @@ value in StellarisNum.txt = 0
 
 ใช้ในกรณีที่เกมอัพเดทเวอร์ชั่น
 
+run Replace.py
+
 ถ้ารันไม่ได้ให้ cd เข้าไปก่อน
