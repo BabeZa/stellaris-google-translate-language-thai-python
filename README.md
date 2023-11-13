@@ -18,3 +18,11 @@ langdetect 1.0.9
 value in StellarisNum.txt = 0
 
 ภาษาที่จะแปลอยู่ใน lang = 'th'
+
+
+# ReplaceStellaris
+แทนที่ข้อความที่แปลแล้วจาก REF ลง ORI
+
+ใช้ในกรณีที่เกมอัพเดทเวอร์ชั่น
+
+ถ้ารันไม่ได้ให้ cd เข้าไปก่อน
