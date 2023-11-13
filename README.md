@@ -1,0 +1,1 @@
+# stellaris-google-translate-language-thai-python
