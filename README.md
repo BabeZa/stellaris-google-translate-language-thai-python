@@ -11,6 +11,8 @@
 ไฟล์ที่แปลแล้วจะอยู่ที่ TRAN
 
 # note 
+Python 3.10.4
+
 pip install googletrans==3.1.0a0
 
 langdetect 1.0.9
