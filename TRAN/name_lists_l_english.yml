@@ -1,0 +1,13 @@
+﻿l_english:
+ HUM:0 "มนุษย์"
+ HUM_desc:1 "Species Class ไม่มีผลกระทบต่ออาณาจักรของคุณ แต่ Species Class Humanoid อาจถือว่า Humanoids อื่นๆ มีความต่างด้าวน้อยกว่าคลาส Species อื่นๆ"
+ HUM_plural:0 "มนุษย์"
+ HUM_insult_01:0 "สัตว์ร้าย"
+ HUM_insult_plural_01:0 "สัตว์ร้าย"
+ HUM_insult_02:0 "โทรลล์"
+ HUM_insult_plural_02:0 "โทรลล์"
+ HUM_insult_03:0 "ออร์ค"
+ HUM_insult_plural_03:0 "ออร์ค"
+ HUM_insult_04:0 "ถุงน้ำน่าเกลียดส่วนใหญ่"
+ HUM_insult_plural_04:0 "ถุงน้ำน่าเกลียดส่วนใหญ่"
+ HUM_compliment_01:0 "สฟิงซ์"

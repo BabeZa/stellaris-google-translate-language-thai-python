@@ -1,0 +1,6 @@
+﻿l_english:
+  SHARED_SECTOR_STOCKPILE_AMOUNT:0 "$AMOUNT|*0$"
+ MONTHLY_SHARED_SECTOR_STOCKPILE_AMOUNT:0 "$AMOUNT|*0$ (+$MONTHLY|*0$) £plus£"
+ OUTLINER_BRANCH_OFFICE_VALUE_CRIMINAL_SYNDICATE:0 "£energy£ $VALUE|1Y$ £crime£ $CRIME|Y0%$"
+ MINERAL_SUBJECT_TAX:0 "$budget_group_subject_tax$: $GAIN|+=$"
+ MINERAL_SUBJECT_TAX:0 "$budget_group_subject_tax$: $GAIN|-=$"
